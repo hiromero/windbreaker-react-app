@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/windbreaker-react-app/static/js/main.059151b3.js",
+    "static/media/logo.png": "/windbreaker-react-app/static/media/logo.768742cf71a2ed9ca693.png",
+    "index.html": "/windbreaker-react-app/index.html",
+    "main.059151b3.js.map": "/windbreaker-react-app/static/js/main.059151b3.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.059151b3.js"
+  ]
+}
